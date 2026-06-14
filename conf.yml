@@ -4,7 +4,7 @@ plugin:
     description: 'A simple wrapper that allows you to encrypt and decrypt strings encrypted by mythicalpanel!'
     flags:
         - hasEvents
-    version: 1.0.3
+    version: 1.0.5
     target: v3
     author:
         - NaysKutzu

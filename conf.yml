@@ -1,10 +1,10 @@
 plugin:
     name: CryptIO
     identifier: cryptio
-    description: 'A simple wrapper that allows you to encrypt and decrypt strings encrypted by FeatherPanel!'
+    description: 'A simple wrapper that allows you to encrypt and decrypt strings encrypted by mythicalpanel!'
     flags:
         - hasEvents
-    version: 1.0.0
+    version: 1.0.3
     target: v3
     author:
         - NaysKutzu
